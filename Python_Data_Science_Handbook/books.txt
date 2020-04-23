@@ -1,0 +1,2 @@
+ # Book 1:
+    * https://www.amazon.com/Data-Science-Press-Essential-Knowledge-ebook/dp/B07C4HKQ9N/ref=pd_sim_351_45?_encoding=UTF8&pd_rd_i=B07C4HKQ9N&pd_rd_r=5596dff3-2c3b-4da1-8ee0-d3cc545795b0&pd_rd_w=mYFPa&pd_rd_wg=PpSaM&pf_rd_p=bab57536-7c8f-4781-a8ed-3e270b9cd303&pf_rd_r=RZE20M87BBFMMNWVZDSD&psc=1&refRID=RZE20M87BBFMMNWVZDSD

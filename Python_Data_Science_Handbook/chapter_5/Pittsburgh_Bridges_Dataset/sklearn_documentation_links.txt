@@ -1,0 +1,11 @@
+- cross_validation:
+    * https://scikit-learn.org/stable/modules/cross_validation.html?highlight=loo%20cv
+
+- learning_curve:
+    * https://scikit-learn.org/stable/modules/learning_curve.html
+    * https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html
+    * https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html
+    
+- mixture, gmm:
+    * https://scikit-learn.org/stable/modules/mixture.html#gmm
+    
